@@ -1,5 +1,5 @@
-### Instagram feed con Boostrap
-Crear un feed de instagram utilizando HTLM, CSS y Boostrap
+### Instagram feed con Bootstrap
+Crear un feed de instagram utilizando HTLM, CSS y Bootstrap
 
  #### Fundamentos :
 
